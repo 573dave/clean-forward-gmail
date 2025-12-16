@@ -1,0 +1,37 @@
+# Clasp
+.clasprc.json
+
+# Node modules (if using local development)
+node_modules/
+package-lock.json
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+
+# Temporary files
+*.tmp
+.temp/
+
+# OS files
+Thumbs.db
+desktop.ini
