@@ -179,7 +179,6 @@ clean-forward-gmail/
 ├── .gitignore              # Git ignore rules
 ├── LICENSE                 # MIT License
 ├── README.md               # This file
-├── CLAUDE.md               # AI assistant guidelines
 └── CONTRIBUTING.md         # Contribution guidelines
 ```
 
@@ -252,7 +251,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built with [Google Apps Script](https://developers.google.com/apps-script)
 - Deployed with [clasp](https://github.com/google/clasp)
-- Developed with assistance from [Claude Code](https://claude.com/code)
 
 ## 📞 Support
 
